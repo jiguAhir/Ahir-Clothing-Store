@@ -1,0 +1,187 @@
+
+body {
+    margin: 0 auto;
+    /*background-color: #F0F0E9;*/
+}
+
+.container {
+    /*background-color: #F0F0E9;*/
+}
+
+.item2 {
+    width: 100%;
+}
+
+.item2 h1 span {
+    color: #FE980F;
+}
+
+.item2 h1 {
+    color: #B4B1AB;
+    font-family: abel;
+    font-size: 48px;
+    margin-top: 115px;
+}
+
+.banner {
+    text-align: center;
+}
+
+.login-form {
+    border: 4px ridge orange;
+    padding: 20px;
+    color: black;
+}
+
+.signup-form {
+    border: 4px ridge orange;
+    padding: 20px;
+    color: black;
+}
+
+#cattype {
+
+}
+
+#cattype p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #696763;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#cattype p span {
+    color: #fdb45e;
+}
+
+.cartinput
+{
+    font-size: 15px;
+}
+
+.product-quantity {
+    width: 55px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+.pagediv {
+    text-align: center;
+}
+
+#contact-page {
+    padding-top: 75px;
+}
+
+#cart_count {
+    text-align: center;
+    padding: 5px 15px;
+    border-radius: 50%;
+    background-color: #fdb45e;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    font-family: arial;
+}
+
+.shopping-cart {
+    padding: 3% 0;
+}
+
+.shop-menu {
+    padding: 5px;
+}
+
+.cart-items + .cart-items {
+    padding: 2% 0;
+}
+
+.txtshort {
+    width: 65px;
+}
+
+.txtlong {
+    width: 250px;
+}
+
+.btn-qty {
+    border-radius: 50%;
+    border: solid 1px;
+    background: white;
+    width: 50px;
+}
+
+.btn-cart {
+    margin-top: 10px;
+}
+
+.btn-cart2 {
+    margin-top: 10px;
+    width: 200px;
+}
+
+.btn-checkout {
+    margin-top: 10px;
+    width: 200px;
+}
+
+.pricetxt {
+    width: 65px;
+    height: 30px;
+}
+
+#txt-qty {
+    width: 60px;
+}
+
+.price_details h6 {
+    padding: 3% 2%;
+}
+
+.credit_img {
+    width: 165px;
+}
+
+.cart_price {
+
+}
+
+.cart_price tr {
+
+}
+
+.cart_price tr td {
+    padding: 5px 15px;
+}
+
+.accept_txt {
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0;
+    color: red;
+}
+
+.colstrap {
+    width: 357px;
+    height: 450px;
+}
+
+.checkout {
+    padding: 5px;
+}
+
+.checkout div {
+    padding: 5px;
+}
+
+.checkout_title {
+    color: green;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+/*Footer*/
+.footer-bottom p {
+    text-align: center;
+}
